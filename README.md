@@ -1,2 +1,3 @@
-# networking-lab
-Materials for my lab
+# Computer Network Labs (2015 - 2016) FMI Unibuc
+
+Have fun! :-)
