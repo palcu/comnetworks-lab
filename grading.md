@@ -10,7 +10,7 @@ Lab 4 (16 - 29 Nov)
   | Homework 3
 Lab 5 (30 Nov - 13 Dec)
   | Homework 4
-Lab 6 (14 Dec - 10 Jan) - *last* week for receiving homework
+Lab 6 (14 Dec - 10 Jan) - *last* weeks for receiving late homework
   | No homework, because you will hate this period.
 Lab 7 (11 Jan - 24 Jan) - preparation for the final exam
 ```
