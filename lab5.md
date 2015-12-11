@@ -15,3 +15,5 @@
   * the network on the right should support 200 hosts
   * the network on the top should support 100 hosts
   * the network on the left should support 10 hosts
+* each PC should receive the first and last available IP addresses
+* make sure at the end that all PCs can ping each other
