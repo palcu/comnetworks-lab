@@ -7,12 +7,11 @@ Lab 2 (19 Oct - 1 Nov)
 Lab 3 (2 - 15 Nov)
   | Homework 2
 Lab 4 (16 - 29 Nov)
-  | Absent
+  | No homework.
 Lab 5 (30 Nov - 13 Dec)
   | Homework 3
-Lab 6 (14 Dec - 10 Jan) - *last* weeks for receiving late homework
-  | No homework, because you will hate this period.
-Lab 7 (11 Jan - 24 Jan) - preparation for the final exam
+Lab 6 (14 Dec - 10 Jan) - preparation for the final exam and last week for receiving late homework
+Exam (11 Jan)
 ```
 
 Each homework gets a 1 to 10 grade. If you fail to present your homework in the expected interval, you will lose 2 points from your maximum possible grade.
